@@ -1,8 +1,8 @@
 # CNN:
-  Study the changes in accuracy when applying different hyperparameters to the CNN model.
+     Study the changes in accuracy when applying different hyperparameters to the CNN model.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------  
-# Data: 
-  I used the MNIST dataset.
+# Data:  
+    I used the MNIST dataset.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 # Run requirements:
-  You should install tensorflow.
+    You should install tensorflow.
